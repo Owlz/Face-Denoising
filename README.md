@@ -21,9 +21,12 @@ The models have been trained on a nVidia Quadro P4000, each epochs took 93-95 se
 - ***DNCNN*** was trained for 25~ epochs
 
 ### How to run/install
+To run the model trainer:
 ```
 git clone https://github.com/JustAnOwlz/Face-Denoising-CASACV.git
 cd Face-Denoising-CASACV
 pip install -r requirements.txt
 python model_trainer_edited.py
 ```
+
+The dataset examples are in the `file dataset` folder, to generate them you can use the file `script.py` but you have to modify it based on what you need.
