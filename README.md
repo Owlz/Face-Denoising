@@ -30,3 +30,8 @@ python model_trainer_edited.py
 ```
 
 The dataset examples are in the `file dataset` folder, to generate them you can use the file `script.py` but you have to modify it based on what you need.
+
+
+### Collaborators
+The project was build from the ground up by our team:
+- Luca Di Luccio - [Owlz](https://github.com/Owlz)
