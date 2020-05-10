@@ -1,3 +1,12 @@
+"""
+This script build the dataset of for the model training
+The steps are:
+1) Take a picture from the celebA dataset
+2) Crop the face
+3) Make the cropped area noisy
+4) Save the picture
+"""
+
 import math
 import cv2
 import dlib

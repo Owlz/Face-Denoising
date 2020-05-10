@@ -1,3 +1,7 @@
+"""
+This script build the model and trains it
+"""
+
 import os
 import glob
 import time

@@ -1,3 +1,11 @@
+"""
+This script test the model made by the script "model_trainer"
+The steps are:
+1) We load the model and some pictures
+2) Denoise the pictures
+3) Render an image of the results
+"""
+
 import keras
 import sys
 import h5py
